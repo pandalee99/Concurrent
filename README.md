@@ -1,7 +1,7 @@
 # Concurrent-programming
 有关于并发编程的代码学习
 
-配套个人的博客：www.blog.sodse.com
+配套个人的博客：https://pandalee99.github.io/
 
 此内容大部分参考了《实战Java高并发程序设计》一书,并且加上了大量的博客内容和自己的理解
 
