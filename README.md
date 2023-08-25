@@ -1,5 +1,6 @@
 # Concurrent-programming
 有关于并发编程的代码学习
+初次接触到编程，主动学习的第一本书
 
 配套个人的博客：https://pandalee99.github.io/
 
